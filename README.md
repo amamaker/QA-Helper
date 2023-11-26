@@ -1,5 +1,4 @@
 # QA Helper tool
-Loginscreen window
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./preview/login.png">
@@ -9,7 +8,6 @@ Loginscreen window
 
 ---
 
-Report & plan page
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./preview/reports.png">
@@ -19,7 +17,6 @@ Report & plan page
 
 ---
 
-Log page
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./preview/log.png">
@@ -29,7 +26,6 @@ Log page
 
 ---
 
-Memory log page
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./preview/mem.PNG">
